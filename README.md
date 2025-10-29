@@ -16,4 +16,4 @@ This project focuses on analyzing historical rainfall patterns across different 
 
 🛠️ Tech Stack
 
-🐍 Python | 📦 Pandas | 🔢 NumPy | 🤖 Scikit-Learn | 📊 Matplotlib | 🎨 Seaborn | 🌐 Flask | 📓 Jupyter Notebook
+🐍 Python | 📦 Pandas | 🔢 NumPy | 🤖 Scikit-Learn | 📊 Matplotlib | 🎨 Seaborn | 🌐 Flask | 📓 Jupyter Notebook .
